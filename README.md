@@ -4,14 +4,7 @@ An executive-level product analytics and decision cockpit built for **Aakash Dai
 
 ---
 
-## 🌟 Live Streamlit Cloud Deployment
 
-Deploy in 1-click on [share.streamlit.io](https://share.streamlit.io):
-- **Repository:** `jigyasa0712/aakash-daily-dashboard` (or your repo name)
-- **Branch:** `main`
-- **Main file path:** `AakashDaily.py` (or `app.py`)
-
----
 
 ## 🚀 Key Executive Findings & Prioritized Actions
 
